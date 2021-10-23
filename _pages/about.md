@@ -18,9 +18,9 @@ I am currently serving as a reviewer for NeurIPS’2020,2021, ICLR’2021,2022, 
 
 # Publications
 
-1. Y. Wang, H. He, X. Tan, Y. Gan. Trust Region-Guided Proximal Policy Optimization. 2019. NeurIPS. [Link](https://papers.nips.cc/paper/2019/hash/a666587afda6e89aec274a3657558a27-Abstract.html)
-2.	Y. Wang, X. Tan. Deep Recurrent Belief Propagation Network for POMDPs. 2021. AAAI. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17227)
-3.	Y. Wang, H. He, X. Tan. Truly Proximal Policy Optimization. 2019. UAI. [Link](https://arxiv.org/abs/1903.07940)
-4.	Y. Wang, X. Tan. Greedy Multi-step Off-Policy Reinforcement Learning. 2020. NeurIPS WorkShop on Deep RL. [Preprint](https://arxiv.org/abs/2102.11717)
+1.  <u>Y. Wang</u>, H. He, X. Tan, Y. Gan. Trust Region-Guided Proximal Policy Optimization. 2019. NeurIPS. [Link](https://papers.nips.cc/paper/2019/hash/a666587afda6e89aec274a3657558a27-Abstract.html)
+2.	<u>Y. Wang</u>, X. Tan. Deep Recurrent Belief Propagation Network for POMDPs. 2021. AAAI. [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17227)
+3.	<u>Y. Wang</u>, H. He, X. Tan. Truly Proximal Policy Optimization. 2019. UAI. [Link](https://arxiv.org/abs/1903.07940)
+4.	<u>Y. Wang</u>, X. Tan. Greedy Multi-step Off-Policy Reinforcement Learning. 2020. NeurIPS WorkShop on Deep RL. [Preprint](https://arxiv.org/abs/2102.11717)
 
 [More Papers](publications)
