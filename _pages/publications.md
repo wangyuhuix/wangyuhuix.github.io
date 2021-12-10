@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-  You can also find my articles on a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+authorname{{author.name}}
+  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 
 1. <u>Yuhui Wang</u>, Hao He, Xiaoyang Tan, Yaozhong Gan. Trust Region-Guided Proximal Policy Optimization[C]. Proceedings of Advances in Neural Information Processing Systems (**NeurIPS**), Volume 32., 2019. 
 2. <u>Yuhui Wang</u>, Xiaoyang Tan. Deep Recurrent Belief Propagation Network for POMDPs[C].Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**) , 2021, 35(11):10236–10244.
