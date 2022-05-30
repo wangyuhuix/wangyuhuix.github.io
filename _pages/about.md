@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Postdoctoral Research Fellow at the [KAUST AI Initiative](https://cemse.kaust.edu.sa/ai) at King Abdullah University of Science and Technology (KAUST), working with Professor [Jürgen Schmidhuber](https://cemse.kaust.edu.sa/people/person/jurgen-schmidhuber).
- I received my Ph.D. and M.S. degree in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics (NUAA), supervised by Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/) in 2021. 
+ I received my Ph.D. and M.S. degree in the College of Computer Science and Technology from Nanjing University of Aeronautics and Astronautics, supervised by Professor [Xiaoyang Tan](http://parnec.nuaa.edu.cn/xtan/) in 2021 and 2017. 
 
 My research interests focus on reinforcement learning, especially on multi-step off-policy learning and the ones involving uncertainty or hidden information  .
 
