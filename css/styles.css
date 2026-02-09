@@ -90,6 +90,12 @@
     scroll-behavior: smooth;
   }
 }
+@media (max-width: 768px) {
+  :root {
+   --bs-body-font-size: 1.0rem;
+  }
+}
+
 
 body {
   margin: 0;
